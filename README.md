@@ -1,6 +1,6 @@
-# FULSTSVM
+# FULSTSVM: A fuzzy universum least squares twin support vector machine
 
-This is implementation of the paper: B. Richhariya, M. Tanveer, A fuzzy universum least squares twin support vector machine (FULSTSVM).
+This is implementation of the paper: Richhariya, B., Tanveer, M. & for the Alzheimer’s Disease Neuroimaging Initiative. A fuzzy universum least squares twin support vector machine (FULSTSVM). Neural Comput & Applic 34, 11411–11422 (2022). https://doi.org/10.1007/s00521-021-05721-4
 
 Description of files:
 
@@ -14,7 +14,7 @@ For quickly reproducing the results of the FULSTSVM algorithm, we have made a ne
 
 This code is for non-commercial and academic use only. Please cite the following paper if you are using this code.
 
-Reference: B. Richhariya, M. Tanveer, A fuzzy universum least squares twin support vector machine (FULSTSVM).
+Reference: Richhariya, B., Tanveer, M. & for the Alzheimer’s Disease Neuroimaging Initiative. A fuzzy universum least squares twin support vector machine (FULSTSVM). Neural Comput & Applic 34, 11411–11422 (2022). https://doi.org/10.1007/s00521-021-05721-4
 
 For further details regarding working of algorithm, please refer to the paper.
 
